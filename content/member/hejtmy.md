@@ -65,8 +65,4 @@ caption = "My table on a busy day :smile:"
     link = "//github.com/hejtmy"
 +++
 
-Ve skupině jsem začal pracovat v roce 2015. I přes svou psychologickou průpravu jsem začal fungovat jako jeden z programátorů rozsáhlé simulace virtuálního města. Tvorba zabrala takřka rok a ve městě jsme posléze několik měsíců sbírali data od desítek doprovolníků. Mé povinnosti přešly z programování experimentů k programování analýz behaviorálních dat, eyetrackeru a plánování nových projektů. 
-
-V týmu nyní funguji jako neplacená technická podopora, programátor včeho od webů po fMRI synchronizace a ten "týpek", co kdesi v místnosti bez oken dlouhodobě kouká do monitoru počítače ve snaze udělat ze změti behaviorálních dat něco trochu smysluplného. 
-
-Krom programování v Národním ústavu duševního zdraví pracuji na svém PhD v Akademii věd a po večerech vyučuji psychologii na střední škole.
+Testujeme
