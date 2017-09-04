@@ -19,5 +19,4 @@ url_pdf_local = "2017/emt-poster-1.pdf"
 [header]
 image = ""
 caption = ""
-
 +++
