@@ -11,7 +11,7 @@ math = true
 publication_types = ["1"]
 publication = "Proceedings of the 11th International Conference on Disability, Virtual Reality and Associated Technologies (ICDVRAT 2016)"
 publication_short = "ICDVRAT 2016"
-selected = true
+selected = false
 
 url_pdf_local = "2016/2016_fajnerova_hejtmanek_rydlo.pdf"
 

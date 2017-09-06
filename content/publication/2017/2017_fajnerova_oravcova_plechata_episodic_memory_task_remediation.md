@@ -1,16 +1,18 @@
-+++
+﻿+++
 title = "The Virtual Episodic Memory Task: towards remediation in neuropsychiatric disorders."
 
-abstract = "Impairment of cognitive functioning represents acharacteristic manifestation in various neuropsychiatricdisorders. Schizophrenia (SZ) is characterised by significantimpairment of declarative memory and executive functioning.Remediation of these cognitive functions is therefore a crucial partof the long-term care in SZ. In two pilot studies we present twovariants of the virtual Episodic Memory Task (vEMT) used toassess memory for ‘what?’- ‘when?’- and ‘where?’ happenedduring specific events. Pilot 1: The vEMT was designed in twocomplex virtual environments (VEs - an open space office and afamily house) and applied in a working memory paradigm. Bothvariants were tested in several collecting trials with increasinglevel of difficulty (number of items). We demonstrated a crucialrole of the VE structure in the memory for item-space associations,while the temporal associations were not affected. Pilot 2: Thesecond variant was designed to test delayed recall of all threeepisodic-like memory components by including the itemrecognition. The task shows unbalanced performance measuredfor individual components. Both task variants are designed forcognitive remediation in ecologically valid episodic situations,affecting both short- and long-term memory. Presented findingswill be used to control the difficulty of individual components byregulation of various task parameters in the remediation program."
+abstract = "Impairment of cognitive functioning represents a characteristic manifestation in various neuropsychiatric disorders. Schizophrenia (SZ) is characterised by significant impairment of declarative memory and executive functioning. Remediation of these cognitive functions is therefore a crucial part of the long-term care in SZ. In two pilot studies we present two variants of the virtual Episodic Memory Task (vEMT) used to assess memory for ‘what?’- ‘when?’- and ‘where?’ happened during specific events. Pilot 1: The vEMT was designed in two complex virtual environments (VEs - an open space office and a family house) and applied in a working memory paradigm. Both variants were tested in several collecting trials with increasing level of difficulty (number of items). We demonstrated a crucial role of the VE structure in the memory for item-space associations, while the temporal associations were not affected. Pilot 2: The second variant was designed to test delayed recall of all three episodic-like memory components by including the item recognition. The task shows unbalanced performance measured for individual components. Both task variants are designed for cognitive remediation in ecologically valid episodic situations, affecting both short- and long-term memory. Presented findings will be used to control the difficulty of individual components by regulation of various task parameters in the remediation program."
+
+abstract_short = "In two pilot studies we present two variants of the virtual Episodic Memory Task (vEMT) used to assess memory for ‘what?’- ‘when?’- and ‘where?’ happened during specific events."
 
 authors = ["Fajnerova I.", "Oravcova I.", "Plechata A.", "Hejtmanek L.", "Vlcek K." , "Sahula V.", "Nekovarova T."]
-date = "2017-01-01"
+date = "2017-06-19"
 image_preview = ""
 math = true
 
 publication_types = ["1"]
-publication = "IEEE"
-publication_short = "IEEE"
+publication = "International Conference on Virtual Rehabilitation (ICVR) - 19.-21. 6. 2017, Montreal, Canada"
+publication_short = "ICVR 2017, Montreal, Canada"
 selected = true
 
 url_pdf_local = "2017/2017_fajnerova_oravcova_plechata_episodic_memory_task_remediation.pdf"

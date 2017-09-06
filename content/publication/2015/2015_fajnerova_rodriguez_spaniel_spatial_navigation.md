@@ -11,7 +11,7 @@ math = true
 publication_types = ["1"]
 publication = "2015 INTERNATIONAL CONFERENCE ON VIRTUAL REHABILITATION PROCEEDINGS (ICVR)"
 publication_short = "ICVR 2015"
-selected = true
+selected = false
 
 url_pdf_local = "2015/2015_fajnerova_rodriguez_spaniel_spatial_navigation.pdf"
 
