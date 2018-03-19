@@ -29,7 +29,7 @@ caption = "My table on a busy day ::"
 [[education]]
     degree = "Aplikovaná chemie"
     institution = "Střední průmyslová škola chemická akademika Heyrovského, Ostrava"
-    year = 2014-2018
+    year = "2014-2018"
 
 [interests]
   interests = [
