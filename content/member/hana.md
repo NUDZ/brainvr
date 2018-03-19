@@ -23,8 +23,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "members/banners/hejtmy.jpg"
-caption = "My table on a busy day ::"
+image = "members/banners/default.png"
+caption = ""
 
 [[education]]
     degree = "Aplikovaná chemie"
