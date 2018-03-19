@@ -43,10 +43,5 @@ caption = ""
     icon_pack = "fa"
     link = "mailto:sramkovahanina@gmail.com"
 
-[[social]]
-    icon = "globe"
-    icon_pack = "fa"
-    link = "neuro-coder.com"
-
 +++
 Ke skupině VP3, přesněji do skupiny Virtuální realita v neurovědách, jsem se připojila v březnu roku 2017. V květnu 2018 plánuji absolvovat maturitní zkoušku na Střední průmyslové škole chemické a dostat se na vysokou školu se zaměřením na všeobecné lékařství. V NUDZ spolupracuji na studii, která porovnává výkon v paměťové úloze prezentované na monitoru počítače a pomocí brýlí pro virtuální realitu u zdravé stárnoucí populace. Získaná data budu využívat pro Středoškolskou odbornou činnost, díky které jsem do NUDZ zavítala.  
