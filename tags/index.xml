@@ -24,7 +24,7 @@
     <item>
       <title></title>
       <link>http://brainvr.cz/tags/</link>
-      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://brainvr.cz/tags/</guid>
       <description></description>
@@ -49,15 +49,6 @@
     </item>
     
     <item>
-      <title>Stážistka</title>
-      <link>http://brainvr.cz/tags/st%C3%A1%C5%BEistka/</link>
-      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://brainvr.cz/tags/st%C3%A1%C5%BEistka/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>VR</title>
       <link>http://brainvr.cz/tags/vr/</link>
       <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
@@ -67,9 +58,18 @@
     </item>
     
     <item>
+      <title>anxiety disorders</title>
+      <link>http://brainvr.cz/tags/anxiety-disorders/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/tags/anxiety-disorders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>assessment</title>
       <link>http://brainvr.cz/tags/assessment/</link>
-      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>http://brainvr.cz/tags/assessment/</guid>
       <description></description>
@@ -87,9 +87,27 @@
     <item>
       <title>cognition</title>
       <link>http://brainvr.cz/tags/cognition/</link>
-      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>http://brainvr.cz/tags/cognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cognitive deficit</title>
+      <link>http://brainvr.cz/tags/cognitive-deficit/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/tags/cognitive-deficit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cognitive training</title>
+      <link>http://brainvr.cz/tags/cognitive-training/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/tags/cognitive-training/</guid>
       <description></description>
     </item>
     
@@ -108,6 +126,24 @@
       <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://brainvr.cz/tags/episodic-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exposure</title>
+      <link>http://brainvr.cz/tags/exposure/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/tags/exposure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exposure therapy</title>
+      <link>http://brainvr.cz/tags/exposure-therapy/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/tags/exposure-therapy/</guid>
       <description></description>
     </item>
     
@@ -139,6 +175,24 @@
     </item>
     
     <item>
+      <title>healthcare gamification</title>
+      <link>http://brainvr.cz/tags/healthcare-gamification/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/tags/healthcare-gamification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>healthy older adults</title>
+      <link>http://brainvr.cz/tags/healthy-older-adults/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/tags/healthy-older-adults/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>hugo</title>
       <link>http://brainvr.cz/tags/hugo/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
@@ -148,11 +202,11 @@
     </item>
     
     <item>
-      <title>intern</title>
-      <link>http://brainvr.cz/tags/intern/</link>
-      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <title>immersion</title>
+      <link>http://brainvr.cz/tags/immersion/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://brainvr.cz/tags/intern/</guid>
+      <guid>http://brainvr.cz/tags/immersion/</guid>
       <description></description>
     </item>
     
@@ -162,6 +216,24 @@
       <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>http://brainvr.cz/tags/kognice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>memory</title>
+      <link>http://brainvr.cz/tags/memory/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/tags/memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>obsessive-compulsive disorder</title>
+      <link>http://brainvr.cz/tags/obsessive-compulsive-disorder/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/tags/obsessive-compulsive-disorder/</guid>
       <description></description>
     </item>
     
@@ -193,6 +265,15 @@
     </item>
     
     <item>
+      <title>rehabilitation</title>
+      <link>http://brainvr.cz/tags/rehabilitation/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/tags/rehabilitation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>remediace</title>
       <link>http://brainvr.cz/tags/remediace/</link>
       <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
@@ -207,6 +288,24 @@
       <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>http://brainvr.cz/tags/remediation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>research</title>
+      <link>http://brainvr.cz/tags/research/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>schizophrenia</title>
+      <link>http://brainvr.cz/tags/schizophrenia/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/tags/schizophrenia/</guid>
       <description></description>
     </item>
     
@@ -229,6 +328,15 @@
     </item>
     
     <item>
+      <title>virtual reality</title>
+      <link>http://brainvr.cz/tags/virtual-reality/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/tags/virtual-reality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>virtuální realita</title>
       <link>http://brainvr.cz/tags/virtu%C3%A1ln%C3%AD-realita/</link>
       <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
@@ -243,6 +351,15 @@
       <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>http://brainvr.cz/tags/vzd%C4%9Bl%C3%A1v%C3%A1n%C3%AD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>well-being</title>
+      <link>http://brainvr.cz/tags/well-being/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/tags/well-being/</guid>
       <description></description>
     </item>
     

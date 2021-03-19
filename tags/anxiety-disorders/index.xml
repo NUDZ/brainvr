@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>anxiety disorders on Virtuální realita v neurovědách</title>
+    <link>http://brainvr.cz/tags/anxiety-disorders/</link>
+    <description>Recent content in anxiety disorders on Virtuální realita v neurovědách</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <copyright>&amp;copy; 2016 Lukáš hejtmy Hejtmánek</copyright>
+    <lastBuildDate>Sat, 07 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://brainvr.cz/tags/anxiety-disorders/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Expoziční terapie pro specifické fobie</title>
+      <link>http://brainvr.cz/project/vretcity/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/vretcity/</guid>
+      <description>Cílem aktuálního projektu je vytvoření terapeutického nástroje určeného pro expoziční terapii specifických fobií (např. strach z výšek, klaustrofobie nebo agorafobie) zasazeného do komplexního prostředí virtuálního velkoměsta. Symptomy pacientů se specifickými fobiemi mohou být často vázány na situace typické pro prostředí města (např. již výše zmíněný strach z výšky, strach z lékařských zařízení nebo strach z cestování veřejnou hromadnou dopravou). Hlavní část města tvoří ulice velkoměsta s projíždějícími auty a okolní výškové budovy a jejich interiér.</description>
+    </item>
+    
+  </channel>
+</rss>

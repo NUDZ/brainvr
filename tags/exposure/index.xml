@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>exposure on Virtuální realita v neurovědách</title>
+    <link>http://brainvr.cz/tags/exposure/</link>
+    <description>Recent content in exposure on Virtuální realita v neurovědách</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <copyright>&amp;copy; 2016 Lukáš hejtmy Hejtmánek</copyright>
+    <lastBuildDate>Sat, 07 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://brainvr.cz/tags/exposure/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Virtuální magnetická rezonance</title>
+      <link>http://brainvr.cz/project/mri_vr/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/mri_vr/</guid>
+      <description>Magnetická rezonance hraje důležitou roli při neurologických, onkologických i jiných klinických vyšetřeních. Úzkost, klaustrofobie nebo jiné obavy ale bývají častým důvodem neochoty dané vyšetření podstoupit, vedou k nepříjemným pocitům před či během vyšetření nebo dokonce snižují kvalitu výstupu (zejména pokud se pacient během snímání hýbe), či brání v jeho realizaci. Často je pro pacienta možné vyšetření absolvovat jen po podání medikace.
+Cílem této VR aplikace je co nejvěrnější simulace celého procesu, kterým musí pacient před vyšetřením v magnetické rezonanci projít.</description>
+    </item>
+    
+  </channel>
+</rss>

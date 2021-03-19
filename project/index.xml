@@ -7,10 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
     <copyright>&amp;copy; 2016 Lukáš hejtmy Hejtmánek</copyright>
-    <lastBuildDate>Sun, 29 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://brainvr.cz/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Porovnání imerzivní a neimerzivní virtuální reality v hodnocení paměťových schopností u seniorů</title>
+      <link>http://brainvr.cz/project/vr_vs_monitor/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/vr_vs_monitor/</guid>
+      <description>Pokles paměti spojený s fyziologickým stárnutím a neurologickými poruchami souvisejícími s věkem má přímý dopad na kvalitu života seniorů. S demografickým stárnutím získává diagnostika kognitivních funkcí na důležitosti, jelikož včasná diagnóza může vést k efektivnějším kognitivním intervencím. Ve srovnání s klasickými přístupy tužka-papír by virtuální realita (VR) mohla nabídnout ekologicky validní nástroj pro hodnocení kognitivního deficitu a jeho následnou rehabilitaci. VR lze prezentovat s různou mírou imerze (míru pohlcení), která ovlinuje vnímanou míru přítomnosti ve virtuálním prostoru.</description>
+    </item>
+    
+    <item>
+      <title>Virtuální město pro trénink kognice u seniorů</title>
+      <link>http://brainvr.cz/project/vrcity/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/vrcity/</guid>
+      <description>Cílem projektu “Virtuální město” je vytvoření uceleného tréninkového SW v ekologicky validním prostředí virtuálního města, který umožní komplexní trénink kognitivních schopností u cílové skupiny zdravých seniorů. Aktivní zapojení vlastního pohybu během pohybu ve VR prostoru prezentovaném pomocí VR brýlí je klíčové pro intuitivní ovládání úlohy u populace s nízkou počítačovou gramotností. Realističnost VR prostředí pomůže usnadnit přenos osvojených strategií do reálného života.
+Virtuální město je tvořeno několika komplexními úlohami určenými k tréninku dlouhodobé i krátkodobé paměti, plánování a dalších exekutivních funkcí, navigace, pozornosti, psychomotorického tempa či vizuomotorické koordinace.</description>
+    </item>
+    
+    <item>
+      <title>Využití virtuálního prostředí v kognitivní rehabilitaci u pacientů s psychiatrickým onemocněním</title>
+      <link>http://brainvr.cz/project/vrrehabilitationcdz/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/vrrehabilitationcdz/</guid>
+      <description>Schizofrenie je heterogenní a často invalidizující onemocnění, které postihuje 1 % populace. Současná psychofarmakologická léčba umožňuje významně eliminovat přítomnost pozitivní příznaků (zejména bludů a halucinací) a částečně i příznaky negativní (sociální stažení či abulii). Farmakologicky špatně ovlivnitelnou skupinou příznaků je kognitivní deficit, který výrazně omezuje kvalitu života pacientů. Výrazný deficit byl opakovaně dokumentován v oblasti deklarativní paměti a pracovní paměti. V této studii využíváme tři úlohy vytvořené ve virtuálním prostředí zaměřené na deklarativní paměť, pracovní paměť a pozornost ke kognitivní rehabilitaci u pacientů trpících schizofrenií nebo (schizo)afektivní poruchou.</description>
+    </item>
     
     <item>
       <title>Úloha Nákupu ve Virtuálním Supermarketu</title>
@@ -19,6 +47,45 @@
       
       <guid>http://brainvr.cz/project/vr-supermarket/</guid>
       <description>Úloha Nákupu ve Virtuálním Supermarketu (ÚNVS) se zaměřuje na epizodickou paměť v kontextu reálného života. Virtuální prostředí umožňuje simulovat každodenní prostředí a zároveň mít naprostou kontrolu nad prezentovanými stimuly. Díky tomu ÚNVS představuje ekologicky validní doplněk ke standardním neuropsychologickým metodám, které bývají kritizovány pro jejich nedostatečný vztah k reálnému fungování jedince (Neisser 1978). ÚNVS simuluje nakupování, což je běžná, každodenní aktivita, která zapojuje několikeré kognitivní funkce – jako je plánování či orientace v prostoru.</description>
+    </item>
+    
+    <item>
+      <title>Expoziční terapie pro pacienty s obsedantně-kompulzivní poruchou</title>
+      <link>http://brainvr.cz/project/ocd_house/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/ocd_house/</guid>
+      <description>Cílem tohoto projektu je tvorba aplikace ve virtuální realitě (VR) pro osoby s obsedantně-kompulzivní poruchou (OCD), která je charakterizovaná přítomností nutkavých myšlenek (obsesí) a nutkavého chování (kompulzí), které jsou vykonávány za účelem snížení úzkosti. Pacient s OCD může mít například strach z nakažení se určitou nemocí, na který reaguje přehnanou hygienou.
+Naše aplikace by měla sloužit zejména jako doplněk klasické kognitivně-behaviorální terapie (KBT). Využívá princip VR expoziční terapie (VRET), během které jsou pacienti s OCD opakovaně a záměrně konfrontováni s podněty souvisejícími s jejich onemocněním.</description>
+    </item>
+    
+    <item>
+      <title>Expoziční terapie pro specifické fobie</title>
+      <link>http://brainvr.cz/project/vretcity/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/vretcity/</guid>
+      <description>Cílem aktuálního projektu je vytvoření terapeutického nástroje určeného pro expoziční terapii specifických fobií (např. strach z výšek, klaustrofobie nebo agorafobie) zasazeného do komplexního prostředí virtuálního velkoměsta. Symptomy pacientů se specifickými fobiemi mohou být často vázány na situace typické pro prostředí města (např. již výše zmíněný strach z výšky, strach z lékařských zařízení nebo strach z cestování veřejnou hromadnou dopravou). Hlavní část města tvoří ulice velkoměsta s projíždějícími auty a okolní výškové budovy a jejich interiér.</description>
+    </item>
+    
+    <item>
+      <title>Kognitivní trénink v prostředí domova</title>
+      <link>http://brainvr.cz/project/kt/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/kt/</guid>
+      <description>Naše skupina pořádá ve spolupráci s Pracovní skupinou Neurokognice a Oddělením kognitivních poruch kognitivní trénink pro zdravé seniory. Trénink probíhá kompletně online včetně vstupního a závěrečného vyšetření. Trénink účastníkům umožňuje cvičit jednotlivé kognitivní funkce pomocí kombinace klasických tužka-papír metod a počítačových úkolů ve virtuálním prostředí a dává prostor i edukaci v rámci jednotlivých témat.
+Trénink se skládá z celkově 18 setkání a probíhá dvakrát týdně (po dobu 9 týdnů). Každé setkání je rozděleno na tři části.</description>
+    </item>
+    
+    <item>
+      <title>Virtuální magnetická rezonance</title>
+      <link>http://brainvr.cz/project/mri_vr/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/mri_vr/</guid>
+      <description>Magnetická rezonance hraje důležitou roli při neurologických, onkologických i jiných klinických vyšetřeních. Úzkost, klaustrofobie nebo jiné obavy ale bývají častým důvodem neochoty dané vyšetření podstoupit, vedou k nepříjemným pocitům před či během vyšetření nebo dokonce snižují kvalitu výstupu (zejména pokud se pacient během snímání hýbe), či brání v jeho realizaci. Často je pro pacienta možné vyšetření absolvovat jen po podání medikace.
+Cílem této VR aplikace je co nejvěrnější simulace celého procesu, kterým musí pacient před vyšetřením v magnetické rezonanci projít.</description>
     </item>
     
     <item>
@@ -42,32 +109,12 @@ Na studium mechanizmů epizodické paměti se často využívá zjednodušený m
     </item>
     
     <item>
-      <title>REMEDIACE EPIZODICKÉ PAMĚTI</title>
-      <link>http://brainvr.cz/project/rem/</link>
-      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://brainvr.cz/project/rem/</guid>
-      <description>Vytváříme také varianty úlohy určené k remediaci epizodické paměti. Úlohy jsou vytvářeny v ekologicky validním prostředí (kancelář - A1/B1, dům - A2/B2, město) se záměrem jejich využití v rámci tréninku paměti a dalších kognitivních funkcí u pacientů s neuropsychiatrickým onemocněním.
-Stávající metoda nám umožňuje se zaměřit na paměťové strategie využité během úlohy (ať už prostřednictvím rozhovoru, či na základě analýzy trajektorie). Mnemotechnické strategie hrají zásadní roli v normálním fungování paměti, jejich zkoumání je proto významné pro návazný trénink kognitivních funkcí.</description>
-    </item>
-    
-    <item>
       <title>OCD studie</title>
       <link>http://brainvr.cz/project/ocd/</link>
       <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://brainvr.cz/project/ocd/</guid>
       <description>Členové pracovní skupiny Virtuální realita v neurovědách se podílejí na projektu s názvem „Patofyziologický podklad neuronálních okruhů u OCD: Translační studie zaměřená na glutamátergní regulaci v přední cingulární kůře“. Tato studie se skládá celkem ze tří navazujících částí – první část představuje lékařské hodnocení klinického stavu pacienta s obsedantně-kompulzivní poruchou, druhá část jeho psychologické vyšetření a třetí část zahrnuje vyšetření v magnetické rezonanci. K teoretickému zaměření naší skupiny má nejblíže obsah psychologického vyšetření, během kterého u lidí s obsedantně-kompulzivní poruchou hodnotíme jejich schopnost inhibiční kontroly – zjednodušeně řečeno toho, jak jsou schopni kontrolovat a potlačovat své reakce.</description>
-    </item>
-    
-    <item>
-      <title>Vývoj tréninkových úloh ve virtuálním prostředí</title>
-      <link>http://brainvr.cz/project/vr-remediace/</link>
-      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://brainvr.cz/project/vr-remediace/</guid>
-      <description>Skupina Virtuální realita v neurovědách se zaměřuje na vývoj úloh určených k remediaci kognitivních funkcí se specifickým důrazem na paměť. Úlohy jsou vytvářeny v ekologicky validním prostředí se záměrem jejich využití v rámci tréninku paměti a dalších kognitivních funkcí u pacientů s neuropsychiatrickým onemocněním.
-V současné chvíli skupina vyvinula paměťovou úlohu nákupu ve virtuálním supermarketu. V prvním kroku jsme úlohu otestovali v její diagnostické podobě u skupiny chronických pacientů se schizofrenií a jejich výkon porovnali se skupinou zdravých dobrovolníků.</description>
     </item>
     
     <item>

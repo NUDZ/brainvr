@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>virtual reality on Virtuální realita v neurovědách</title>
+    <link>http://brainvr.cz/tags/virtual-reality/</link>
+    <description>Recent content in virtual reality on Virtuální realita v neurovědách</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <copyright>&amp;copy; 2016 Lukáš hejtmy Hejtmánek</copyright>
+    <lastBuildDate>Mon, 30 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://brainvr.cz/tags/virtual-reality/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Porovnání imerzivní a neimerzivní virtuální reality v hodnocení paměťových schopností u seniorů</title>
+      <link>http://brainvr.cz/project/vr_vs_monitor/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/vr_vs_monitor/</guid>
+      <description>Pokles paměti spojený s fyziologickým stárnutím a neurologickými poruchami souvisejícími s věkem má přímý dopad na kvalitu života seniorů. S demografickým stárnutím získává diagnostika kognitivních funkcí na důležitosti, jelikož včasná diagnóza může vést k efektivnějším kognitivním intervencím. Ve srovnání s klasickými přístupy tužka-papír by virtuální realita (VR) mohla nabídnout ekologicky validní nástroj pro hodnocení kognitivního deficitu a jeho následnou rehabilitaci. VR lze prezentovat s různou mírou imerze (míru pohlcení), která ovlinuje vnímanou míru přítomnosti ve virtuálním prostoru.</description>
+    </item>
+    
+    <item>
+      <title>Virtuální město pro trénink kognice u seniorů</title>
+      <link>http://brainvr.cz/project/vrcity/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/vrcity/</guid>
+      <description>Cílem projektu “Virtuální město” je vytvoření uceleného tréninkového SW v ekologicky validním prostředí virtuálního města, který umožní komplexní trénink kognitivních schopností u cílové skupiny zdravých seniorů. Aktivní zapojení vlastního pohybu během pohybu ve VR prostoru prezentovaném pomocí VR brýlí je klíčové pro intuitivní ovládání úlohy u populace s nízkou počítačovou gramotností. Realističnost VR prostředí pomůže usnadnit přenos osvojených strategií do reálného života.
+Virtuální město je tvořeno několika komplexními úlohami určenými k tréninku dlouhodobé i krátkodobé paměti, plánování a dalších exekutivních funkcí, navigace, pozornosti, psychomotorického tempa či vizuomotorické koordinace.</description>
+    </item>
+    
+    <item>
+      <title>Využití virtuálního prostředí v kognitivní rehabilitaci u pacientů s psychiatrickým onemocněním</title>
+      <link>http://brainvr.cz/project/vrrehabilitationcdz/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/vrrehabilitationcdz/</guid>
+      <description>Schizofrenie je heterogenní a často invalidizující onemocnění, které postihuje 1 % populace. Současná psychofarmakologická léčba umožňuje významně eliminovat přítomnost pozitivní příznaků (zejména bludů a halucinací) a částečně i příznaky negativní (sociální stažení či abulii). Farmakologicky špatně ovlivnitelnou skupinou příznaků je kognitivní deficit, který výrazně omezuje kvalitu života pacientů. Výrazný deficit byl opakovaně dokumentován v oblasti deklarativní paměti a pracovní paměti. V této studii využíváme tři úlohy vytvořené ve virtuálním prostředí zaměřené na deklarativní paměť, pracovní paměť a pozornost ke kognitivní rehabilitaci u pacientů trpících schizofrenií nebo (schizo)afektivní poruchou.</description>
+    </item>
+    
+    <item>
+      <title>Expoziční terapie pro pacienty s obsedantně-kompulzivní poruchou</title>
+      <link>http://brainvr.cz/project/ocd_house/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/ocd_house/</guid>
+      <description>Cílem tohoto projektu je tvorba aplikace ve virtuální realitě (VR) pro osoby s obsedantně-kompulzivní poruchou (OCD), která je charakterizovaná přítomností nutkavých myšlenek (obsesí) a nutkavého chování (kompulzí), které jsou vykonávány za účelem snížení úzkosti. Pacient s OCD může mít například strach z nakažení se určitou nemocí, na který reaguje přehnanou hygienou.
+Naše aplikace by měla sloužit zejména jako doplněk klasické kognitivně-behaviorální terapie (KBT). Využívá princip VR expoziční terapie (VRET), během které jsou pacienti s OCD opakovaně a záměrně konfrontováni s podněty souvisejícími s jejich onemocněním.</description>
+    </item>
+    
+    <item>
+      <title>Expoziční terapie pro specifické fobie</title>
+      <link>http://brainvr.cz/project/vretcity/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/vretcity/</guid>
+      <description>Cílem aktuálního projektu je vytvoření terapeutického nástroje určeného pro expoziční terapii specifických fobií (např. strach z výšek, klaustrofobie nebo agorafobie) zasazeného do komplexního prostředí virtuálního velkoměsta. Symptomy pacientů se specifickými fobiemi mohou být často vázány na situace typické pro prostředí města (např. již výše zmíněný strach z výšky, strach z lékařských zařízení nebo strach z cestování veřejnou hromadnou dopravou). Hlavní část města tvoří ulice velkoměsta s projíždějícími auty a okolní výškové budovy a jejich interiér.</description>
+    </item>
+    
+    <item>
+      <title>Kognitivní trénink v prostředí domova</title>
+      <link>http://brainvr.cz/project/kt/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/kt/</guid>
+      <description>Naše skupina pořádá ve spolupráci s Pracovní skupinou Neurokognice a Oddělením kognitivních poruch kognitivní trénink pro zdravé seniory. Trénink probíhá kompletně online včetně vstupního a závěrečného vyšetření. Trénink účastníkům umožňuje cvičit jednotlivé kognitivní funkce pomocí kombinace klasických tužka-papír metod a počítačových úkolů ve virtuálním prostředí a dává prostor i edukaci v rámci jednotlivých témat.
+Trénink se skládá z celkově 18 setkání a probíhá dvakrát týdně (po dobu 9 týdnů). Každé setkání je rozděleno na tři části.</description>
+    </item>
+    
+    <item>
+      <title>Virtuální magnetická rezonance</title>
+      <link>http://brainvr.cz/project/mri_vr/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/mri_vr/</guid>
+      <description>Magnetická rezonance hraje důležitou roli při neurologických, onkologických i jiných klinických vyšetřeních. Úzkost, klaustrofobie nebo jiné obavy ale bývají častým důvodem neochoty dané vyšetření podstoupit, vedou k nepříjemným pocitům před či během vyšetření nebo dokonce snižují kvalitu výstupu (zejména pokud se pacient během snímání hýbe), či brání v jeho realizaci. Často je pro pacienta možné vyšetření absolvovat jen po podání medikace.
+Cílem této VR aplikace je co nejvěrnější simulace celého procesu, kterým musí pacient před vyšetřením v magnetické rezonanci projít.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://brainvr.cz/member/marketa/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/member/marketa/</guid>
+      <description>Studuji psychologii na Filozofické fakultě Univerzity Karlovy a v pracovní skupině Virtuální realita v neurovědách jsem od roku 2018. Skupina mi umožňuje propojit své profesní zaměření a celoživotní zálibu v počítačových hrách. Začala jsem administrací úloh ve virtuální realitě a na počítači u seniorů, což ve mně prohloubilo zájem o zprostředkovávání moderních technologií starší populaci. Tento rok se proto zabývám i tréninkem kognitivních funkcí a na jaře jsem vedla skupinový kognitivní trénink za využití klasických i počítačových metod.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://brainvr.cz/member/anna/</link>
+      <pubDate>Mon, 11 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/member/anna/</guid>
+      <description>Jsem psycholožka a studentka doktorského programu Neurověd na 3. LF UK. S pracovní skupinou Virtuální realita v neurovědách jsem začala spolupracovat v únoru 2016 jako výzkumný asistent, nyní pracuji na pozici výzkumného a vývojového pracovníka. Náplní mé práce je především vedení expozičních terapií s využitím virtuální reality (VR) u pacientů s úzkostnými poruchami (zejména OCD, fobie nebo generalizovaná úzkostná porucha), podílení se na tvorbě aplikací ve virtuální realitě a příprava experimentů.</description>
+    </item>
+    
+  </channel>
+</rss>

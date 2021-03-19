@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
     <copyright>&amp;copy; 2016 Lukáš hejtmy Hejtmánek</copyright>
-    <lastBuildDate>Sun, 29 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://brainvr.cz/tags/cognition/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Porovnání imerzivní a neimerzivní virtuální reality v hodnocení paměťových schopností u seniorů</title>
+      <link>http://brainvr.cz/project/vr_vs_monitor/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/vr_vs_monitor/</guid>
+      <description>Pokles paměti spojený s fyziologickým stárnutím a neurologickými poruchami souvisejícími s věkem má přímý dopad na kvalitu života seniorů. S demografickým stárnutím získává diagnostika kognitivních funkcí na důležitosti, jelikož včasná diagnóza může vést k efektivnějším kognitivním intervencím. Ve srovnání s klasickými přístupy tužka-papír by virtuální realita (VR) mohla nabídnout ekologicky validní nástroj pro hodnocení kognitivního deficitu a jeho následnou rehabilitaci. VR lze prezentovat s různou mírou imerze (míru pohlcení), která ovlinuje vnímanou míru přítomnosti ve virtuálním prostoru.</description>
+    </item>
+    
+    <item>
+      <title>Virtuální město pro trénink kognice u seniorů</title>
+      <link>http://brainvr.cz/project/vrcity/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/vrcity/</guid>
+      <description>Cílem projektu “Virtuální město” je vytvoření uceleného tréninkového SW v ekologicky validním prostředí virtuálního města, který umožní komplexní trénink kognitivních schopností u cílové skupiny zdravých seniorů. Aktivní zapojení vlastního pohybu během pohybu ve VR prostoru prezentovaném pomocí VR brýlí je klíčové pro intuitivní ovládání úlohy u populace s nízkou počítačovou gramotností. Realističnost VR prostředí pomůže usnadnit přenos osvojených strategií do reálného života.
+Virtuální město je tvořeno několika komplexními úlohami určenými k tréninku dlouhodobé i krátkodobé paměti, plánování a dalších exekutivních funkcí, navigace, pozornosti, psychomotorického tempa či vizuomotorické koordinace.</description>
+    </item>
     
     <item>
       <title>Úloha Nákupu ve Virtuálním Supermarketu</title>
@@ -19,16 +38,6 @@
       
       <guid>http://brainvr.cz/project/vr-supermarket/</guid>
       <description>Úloha Nákupu ve Virtuálním Supermarketu (ÚNVS) se zaměřuje na epizodickou paměť v kontextu reálného života. Virtuální prostředí umožňuje simulovat každodenní prostředí a zároveň mít naprostou kontrolu nad prezentovanými stimuly. Díky tomu ÚNVS představuje ekologicky validní doplněk ke standardním neuropsychologickým metodám, které bývají kritizovány pro jejich nedostatečný vztah k reálnému fungování jedince (Neisser 1978). ÚNVS simuluje nakupování, což je běžná, každodenní aktivita, která zapojuje několikeré kognitivní funkce – jako je plánování či orientace v prostoru.</description>
-    </item>
-    
-    <item>
-      <title>Vývoj tréninkových úloh ve virtuálním prostředí</title>
-      <link>http://brainvr.cz/project/vr-remediace/</link>
-      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://brainvr.cz/project/vr-remediace/</guid>
-      <description>Skupina Virtuální realita v neurovědách se zaměřuje na vývoj úloh určených k remediaci kognitivních funkcí se specifickým důrazem na paměť. Úlohy jsou vytvářeny v ekologicky validním prostředí se záměrem jejich využití v rámci tréninku paměti a dalších kognitivních funkcí u pacientů s neuropsychiatrickým onemocněním.
-V současné chvíli skupina vyvinula paměťovou úlohu nákupu ve virtuálním supermarketu. V prvním kroku jsme úlohu otestovali v její diagnostické podobě u skupiny chronických pacientů se schizofrenií a jejich výkon porovnali se skupinou zdravých dobrovolníků.</description>
     </item>
     
   </channel>

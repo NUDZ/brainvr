@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>healthcare gamification on Virtuální realita v neurovědách</title>
+    <link>http://brainvr.cz/tags/healthcare-gamification/</link>
+    <description>Recent content in healthcare gamification on Virtuální realita v neurovědách</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <copyright>&amp;copy; 2016 Lukáš hejtmy Hejtmánek</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://brainvr.cz/tags/healthcare-gamification/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://brainvr.cz/member/marketa/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/member/marketa/</guid>
+      <description>Studuji psychologii na Filozofické fakultě Univerzity Karlovy a v pracovní skupině Virtuální realita v neurovědách jsem od roku 2018. Skupina mi umožňuje propojit své profesní zaměření a celoživotní zálibu v počítačových hrách. Začala jsem administrací úloh ve virtuální realitě a na počítači u seniorů, což ve mně prohloubilo zájem o zprostředkovávání moderních technologií starší populaci. Tento rok se proto zabývám i tréninkem kognitivních funkcí a na jaře jsem vedla skupinový kognitivní trénink za využití klasických i počítačových metod.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://brainvr.cz/member/anna/</link>
+      <pubDate>Mon, 11 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/member/anna/</guid>
+      <description>Jsem psycholožka a studentka doktorského programu Neurověd na 3. LF UK. S pracovní skupinou Virtuální realita v neurovědách jsem začala spolupracovat v únoru 2016 jako výzkumný asistent, nyní pracuji na pozici výzkumného a vývojového pracovníka. Náplní mé práce je především vedení expozičních terapií s využitím virtuální reality (VR) u pacientů s úzkostnými poruchami (zejména OCD, fobie nebo generalizovaná úzkostná porucha), podílení se na tvorbě aplikací ve virtuální realitě a příprava experimentů.</description>
+    </item>
+    
+  </channel>
+</rss>

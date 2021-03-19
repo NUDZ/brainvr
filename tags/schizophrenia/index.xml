@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>schizophrenia on Virtuální realita v neurovědách</title>
+    <link>http://brainvr.cz/tags/schizophrenia/</link>
+    <description>Recent content in schizophrenia on Virtuální realita v neurovědách</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <copyright>&amp;copy; 2016 Lukáš hejtmy Hejtmánek</copyright>
+    <lastBuildDate>Mon, 30 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://brainvr.cz/tags/schizophrenia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Využití virtuálního prostředí v kognitivní rehabilitaci u pacientů s psychiatrickým onemocněním</title>
+      <link>http://brainvr.cz/project/vrrehabilitationcdz/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/vrrehabilitationcdz/</guid>
+      <description>Schizofrenie je heterogenní a často invalidizující onemocnění, které postihuje 1 % populace. Současná psychofarmakologická léčba umožňuje významně eliminovat přítomnost pozitivní příznaků (zejména bludů a halucinací) a částečně i příznaky negativní (sociální stažení či abulii). Farmakologicky špatně ovlivnitelnou skupinou příznaků je kognitivní deficit, který výrazně omezuje kvalitu života pacientů. Výrazný deficit byl opakovaně dokumentován v oblasti deklarativní paměti a pracovní paměti. V této studii využíváme tři úlohy vytvořené ve virtuálním prostředí zaměřené na deklarativní paměť, pracovní paměť a pozornost ke kognitivní rehabilitaci u pacientů trpících schizofrenií nebo (schizo)afektivní poruchou.</description>
+    </item>
+    
+  </channel>
+</rss>

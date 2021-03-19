@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
     <copyright>&amp;copy; 2016 Lukáš hejtmy Hejtmánek</copyright>
-    <lastBuildDate>Tue, 27 May 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://brainvr.cz/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Age-Related Differences With Immersive and Non-immersive Virtual Reality in Memory Assessment</title>
+      <link>http://brainvr.cz/publication/2019/2019_plechata_vr-vs-monitor/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/publication/2019/2019_plechata_vr-vs-monitor/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A virtual reality task based on animal research–spatial learning and memory in patients after the first episode of schizophrenia</title>

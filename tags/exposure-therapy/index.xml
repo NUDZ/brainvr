@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>exposure therapy on Virtuální realita v neurovědách</title>
+    <link>http://brainvr.cz/tags/exposure-therapy/</link>
+    <description>Recent content in exposure therapy on Virtuální realita v neurovědách</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <copyright>&amp;copy; 2016 Lukáš hejtmy Hejtmánek</copyright>
+    <lastBuildDate>Sat, 07 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://brainvr.cz/tags/exposure-therapy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Expoziční terapie pro pacienty s obsedantně-kompulzivní poruchou</title>
+      <link>http://brainvr.cz/project/ocd_house/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/ocd_house/</guid>
+      <description>Cílem tohoto projektu je tvorba aplikace ve virtuální realitě (VR) pro osoby s obsedantně-kompulzivní poruchou (OCD), která je charakterizovaná přítomností nutkavých myšlenek (obsesí) a nutkavého chování (kompulzí), které jsou vykonávány za účelem snížení úzkosti. Pacient s OCD může mít například strach z nakažení se určitou nemocí, na který reaguje přehnanou hygienou.
+Naše aplikace by měla sloužit zejména jako doplněk klasické kognitivně-behaviorální terapie (KBT). Využívá princip VR expoziční terapie (VRET), během které jsou pacienti s OCD opakovaně a záměrně konfrontováni s podněty souvisejícími s jejich onemocněním.</description>
+    </item>
+    
+    <item>
+      <title>Expoziční terapie pro specifické fobie</title>
+      <link>http://brainvr.cz/project/vretcity/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/project/vretcity/</guid>
+      <description>Cílem aktuálního projektu je vytvoření terapeutického nástroje určeného pro expoziční terapii specifických fobií (např. strach z výšek, klaustrofobie nebo agorafobie) zasazeného do komplexního prostředí virtuálního velkoměsta. Symptomy pacientů se specifickými fobiemi mohou být často vázány na situace typické pro prostředí města (např. již výše zmíněný strach z výšky, strach z lékařských zařízení nebo strach z cestování veřejnou hromadnou dopravou). Hlavní část města tvoří ulice velkoměsta s projíždějícími auty a okolní výškové budovy a jejich interiér.</description>
+    </item>
+    
+  </channel>
+</rss>
